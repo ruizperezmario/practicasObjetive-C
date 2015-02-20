@@ -8,7 +8,8 @@
 
 #import <UIKit/UIKit.h>
 
-@interface SpaceImageViewController : UIViewController
+@interface SpaceImageViewController : UIViewController <UIScrollViewDelegate>
+
 @property (weak, nonatomic) IBOutlet UIScrollView *scrollView;
 @property (strong, nonatomic) UIImageView *imageView;
 
