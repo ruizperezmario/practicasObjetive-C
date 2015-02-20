@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>UIScrollView Challenge Solution.xcscheme</key>
+		<key>Passing Data Challenge Solution.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,12 +12,12 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>EB153B1B1A97C21F000ECABB</key>
+		<key>EB153B4F1A97D531000ECABB</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>EB153B341A97C21F000ECABB</key>
+		<key>EB153B681A97D531000ECABB</key>
 		<dict>
 			<key>primary</key>
 			<true/>

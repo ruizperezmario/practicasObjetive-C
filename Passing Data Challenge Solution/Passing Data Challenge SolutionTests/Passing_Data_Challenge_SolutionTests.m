@@ -1,6 +1,6 @@
 //
-//  UIScrollView_Challenge_SolutionTests.m
-//  UIScrollView Challenge SolutionTests
+//  Passing_Data_Challenge_SolutionTests.m
+//  Passing Data Challenge SolutionTests
 //
 //  Created by Mario Ruiz on 2/20/15.
 //  Copyright (c) 2015 Mario Ruiz. All rights reserved.
@@ -9,11 +9,11 @@
 #import <UIKit/UIKit.h>
 #import <XCTest/XCTest.h>
 
-@interface UIScrollView_Challenge_SolutionTests : XCTestCase
+@interface Passing_Data_Challenge_SolutionTests : XCTestCase
 
 @end
 
-@implementation UIScrollView_Challenge_SolutionTests
+@implementation Passing_Data_Challenge_SolutionTests
 
 - (void)setUp {
     [super setUp];

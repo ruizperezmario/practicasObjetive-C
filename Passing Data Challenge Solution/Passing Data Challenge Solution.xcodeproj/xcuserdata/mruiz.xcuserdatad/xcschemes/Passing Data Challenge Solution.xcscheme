@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "EB153B1B1A97C21F000ECABB"
-               BuildableName = "UIScrollView Challenge Solution.app"
-               BlueprintName = "UIScrollView Challenge Solution"
-               ReferencedContainer = "container:UIScrollView Challenge Solution.xcodeproj">
+               BlueprintIdentifier = "EB153B4F1A97D531000ECABB"
+               BuildableName = "Passing Data Challenge Solution.app"
+               BlueprintName = "Passing Data Challenge Solution"
+               ReferencedContainer = "container:Passing Data Challenge Solution.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -28,10 +28,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "EB153B341A97C21F000ECABB"
-               BuildableName = "UIScrollView Challenge SolutionTests.xctest"
-               BlueprintName = "UIScrollView Challenge SolutionTests"
-               ReferencedContainer = "container:UIScrollView Challenge Solution.xcodeproj">
+               BlueprintIdentifier = "EB153B681A97D531000ECABB"
+               BuildableName = "Passing Data Challenge SolutionTests.xctest"
+               BlueprintName = "Passing Data Challenge SolutionTests"
+               ReferencedContainer = "container:Passing Data Challenge Solution.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -46,20 +46,20 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "EB153B341A97C21F000ECABB"
-               BuildableName = "UIScrollView Challenge SolutionTests.xctest"
-               BlueprintName = "UIScrollView Challenge SolutionTests"
-               ReferencedContainer = "container:UIScrollView Challenge Solution.xcodeproj">
+               BlueprintIdentifier = "EB153B681A97D531000ECABB"
+               BuildableName = "Passing Data Challenge SolutionTests.xctest"
+               BlueprintName = "Passing Data Challenge SolutionTests"
+               ReferencedContainer = "container:Passing Data Challenge Solution.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "EB153B1B1A97C21F000ECABB"
-            BuildableName = "UIScrollView Challenge Solution.app"
-            BlueprintName = "UIScrollView Challenge Solution"
-            ReferencedContainer = "container:UIScrollView Challenge Solution.xcodeproj">
+            BlueprintIdentifier = "EB153B4F1A97D531000ECABB"
+            BuildableName = "Passing Data Challenge Solution.app"
+            BlueprintName = "Passing Data Challenge Solution"
+            ReferencedContainer = "container:Passing Data Challenge Solution.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -75,10 +75,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "EB153B1B1A97C21F000ECABB"
-            BuildableName = "UIScrollView Challenge Solution.app"
-            BlueprintName = "UIScrollView Challenge Solution"
-            ReferencedContainer = "container:UIScrollView Challenge Solution.xcodeproj">
+            BlueprintIdentifier = "EB153B4F1A97D531000ECABB"
+            BuildableName = "Passing Data Challenge Solution.app"
+            BlueprintName = "Passing Data Challenge Solution"
+            ReferencedContainer = "container:Passing Data Challenge Solution.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -93,10 +93,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "EB153B1B1A97C21F000ECABB"
-            BuildableName = "UIScrollView Challenge Solution.app"
-            BlueprintName = "UIScrollView Challenge Solution"
-            ReferencedContainer = "container:UIScrollView Challenge Solution.xcodeproj">
+            BlueprintIdentifier = "EB153B4F1A97D531000ECABB"
+            BuildableName = "Passing Data Challenge Solution.app"
+            BlueprintName = "Passing Data Challenge Solution"
+            ReferencedContainer = "container:Passing Data Challenge Solution.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
